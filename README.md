@@ -55,3 +55,4 @@ Wait with exercise two until instructed.
 * Each team member contributes at least one feature
   
 * repeat a couple of times to exercise the resolution of merge commits.
+foo
